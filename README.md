@@ -2,14 +2,19 @@ Olá, eu sou Dayvson Gomes!
 📚 Sou estudante em Sistemas de Informação.
 💻 Sempre procuro conhecimentos na área, me desperta a busca por novidades para manter sempre atualizado.
 
-<div class="corpo">
-    
-    <div class="galeria">    
-        <div class="foto"><img src="Assas1.jpg"></div>    
-        <div class="foto"><img src="Assas2.jpg"></div>	    
-        <div class="foto"><img src="Assas3.jpg"></div>	        
-        <div class="foto"><img src="Assas4.jpg"></div>
- 
+<div style="float: left;">
+<!-- Primeiro código do Adsense aqui -->
+</div>
+
+<div style="float: left; margin: 0 20px;">
+<!-- Segundo código do Adsense aqui -->
+</div>
+
+<div style="float: left;">
+<!-- Terceiro código do Adsense aqui -->
+</div>
+
+<div style="clear: both;"></div>
    
       
 
