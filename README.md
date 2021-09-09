@@ -10,12 +10,6 @@ Olá, eu sou Dayvson Gomes!
         <div class="foto"><img src="Assas3.jpg"></div>	        
         <div class="foto"><img src="Assas4.jpg"></div>
  
-    </div>
-        
-    <div class="galeria">
-        <div class="foto"><img src="Assas5.jpg"></div>	        
-        <div class="foto"><img src="Assas3.jpg"></div>	        
-        <div class="foto"><img src="Assas4.jpg"></div>	        
-        <div class="foto"><img src="Assas5.jpg"></div>	 
+   
       
 
